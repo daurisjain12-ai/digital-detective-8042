@@ -2,9 +2,9 @@
 # MISSION 8 - FINAL REPORT
 ## THE DIGITAL DETECTIVE
 
-**Student Name:** Yashvi Surana
+**Student Name:** Dauris Jain
 
-**Repository:** digital-detective-8033
+**Repository:** digital-detective-8042
 
 **Subject:** Software and AI (SnAI)
 
@@ -13,28 +13,34 @@
 ## 1. Introduction
 
 The Digital Detective was an independent learning
-assignment designed to help me understand computer
-fundamentals, operating systems, programming,
-number systems, version control and networking.
+assignment designed to develop my understanding of
+computer fundamentals, operating systems, programming,
+number systems, version control and computer networking.
 
 Throughout this assignment, I performed practical
 activities using Terminal, Python, Git and GitHub.
+
+The main objective was to understand how computers
+work and gain practical experience with essential
+computer science tools and concepts.
 
 ## 2. Mission Summary
 
 | Mission | Topic | Work Completed |
 |---|---|---|
-| Mission 00 | GitHub Workspace Setup | Repository and folder structure |
-| Mission 01 | Know Your Computer | IPOS, hardware and software |
-| Mission 02 | Terminal | Basic Terminal commands |
-| Mission 03 | Operating System | OS, processes, paths and permissions |
-| Mission 04 | How Programs Run | Python program and compiler/interpreter |
-| Mission 05 | Numbers and Data | Number conversion and ASCII |
-| Mission 06 | Git and GitHub | Branches, commits and Pull Requests |
-| Mission 07 | Networking | Networking commands and concepts |
-| Mission 08 | Final Report | Assignment documentation |
+| Mission 00 | GitHub Workspace Setup | Created repository and mission folder structure |
+| Mission 01 | Know Your Computer | Explored IPOS, hardware and software |
+| Mission 02 | Terminal | Practised basic commands and file management |
+| Mission 03 | Operating System | Explored OS, processes, paths and permissions |
+| Mission 04 | How Programs Run | Created Python program and compared compiler/interpreter |
+| Mission 05 | Numbers and Data | Practised number conversions, ASCII and Python converter |
+| Mission 06 | Git and GitHub | Practised commits, branches and Pull Requests |
+| Mission 07 | Networking | Explored networking concepts and commands |
+| Mission 08 | Final Report | Reviewed and documented assignment work |
 
 ## 3. Tools and Technologies Used
+
+The following tools were used during the assignment:
 
 - macOS Terminal
 - Python 3
@@ -42,123 +48,189 @@ activities using Terminal, Python, Git and GitHub.
 - GitHub
 - Visual Studio Code
 - Markdown
+- Homebrew (if available)
 
 ## 4. Important Practical Work
 
-### Python Programming
+### 4.1 Computer Fundamentals
 
-Created and executed hello.py.
+- Studied the IPOS model (Input, Processing, Output and Storage).
+- Identified hardware and software components.
+- Explored computer-based systems used in everyday life.
 
-Output:
-Hello from Python
+### 4.2 Terminal Practice
 
-### Number Converter
-
-Created number_converter.py to perform:
-
-- Decimal to Binary
-- Decimal to Octal
-- Decimal to Hexadecimal
-- Binary to Decimal
-- Octal to Decimal
-- Hexadecimal to Decimal
-- Character to ASCII
-- ASCII to Character
-
-### Terminal Practice
-
-Practised commands including:
+Practised commands for navigating and managing files:
 
 - pwd
 - ls
 - cd
 - mkdir
 - touch
+- cp
+- mv
 - cat
 - echo
-- find
 
-### Operating System Exploration
+Also explored command flags, hidden files and pipes.
 
-Explored system information, running processes,
-storage, paths and file permissions.
+### 4.3 Operating System Exploration
 
-### Networking Practice
+Explored macOS system information, running processes,
+available storage, directory paths and file permissions.
 
-Practised:
+Studied important operating system responsibilities,
+including process, memory, device and file management.
+
+### 4.4 Python Programming
+
+Created and executed a Python program named hello.py.
+
+**Output:**
+Hello from Python
+
+Also studied the difference between compilers
+and interpreters.
+
+### 4.5 Number Systems and Data Representation
+
+Practised conversions between:
+
+- Decimal and Binary
+- Binary and Decimal
+- Hexadecimal and Decimal
+- Binary and Hexadecimal
+
+Verified conversions using Python built-in functions.
+
+Created number_converter.py to convert a decimal
+number into its Binary and Hexadecimal representations.
+
+Also explored ASCII character encoding.
+
+### 4.6 Git and GitHub
+
+Practised essential version control operations:
+
+- Initialising and managing repositories
+- Checking repository status
+- Staging and committing changes
+- Creating and switching branches
+- Pushing changes to GitHub
+- Understanding Pull Requests
+
+### 4.7 Computer Networking
+
+Studied fundamental networking concepts:
+
+- LAN, MAN and WAN
+- DNS
+- Routers
+- Network protocols
+- Packet switching
+- Client-server communication
+
+Practised network-related commands such as:
 
 - ping
 - nslookup
-- traceroute
-- curl
-- ifconfig
 
-### Git and GitHub
-
-Learned repository management, staging,
-commits, branches, pushing changes and
-Pull Request workflows.
+Also studied the steps involved when opening a website
+in a web browser.
 
 ## 5. Key Learnings
 
-1. Understood the IPOS model of a computer.
-2. Learned the difference between hardware
-   and software.
-3. Practised navigating files and directories
-   using Terminal.
+Through this assignment, I gained the following knowledge:
+
+1. Understood how computers process information using IPOS.
+2. Learned the difference between hardware and software.
+3. Gained confidence in using Terminal commands.
 4. Understood operating system responsibilities.
-5. Created and executed Python programs.
-6. Learned binary, octal, decimal and
-   hexadecimal number systems.
-7. Understood Git version control and GitHub.
-8. Learned basic computer networking concepts.
+5. Learned how Python programs are created and executed.
+6. Practised binary, decimal and hexadecimal conversions.
+7. Understood ASCII and basic data representation.
+8. Learned Git version control and GitHub workflows.
+9. Developed an understanding of basic networking concepts.
+10. Improved my ability to organise and document projects.
 
 ## 6. Challenges Faced
 
-- Understanding Terminal commands.
-- Navigating between project directories.
-- Creating and organising files correctly.
-- Understanding Git branches and commits.
-- Debugging Python input and conversion errors.
-- Understanding networking commands.
+During the assignment, I faced several challenges:
+
+- Understanding and remembering Terminal commands.
+- Navigating between different project directories.
+- Creating and organising mission folders correctly.
+- Understanding the difference between staging and committing.
+- Working with Git branches and remote repositories.
+- Understanding number system conversions.
+- Debugging Python programs.
+- Understanding networking concepts and commands.
 
 ## 7. How I Overcame These Challenges
 
-I practised commands repeatedly, referred to
-documentation, tested Python programs and
-used Git to track my project changes.
+I addressed these difficulties through regular practice
+and by testing commands on my own computer.
 
-This helped me improve my technical understanding
-and problem-solving skills.
+I referred to documentation to understand unfamiliar
+concepts and used Python to verify number conversions.
 
-## 8. Final Reflection
+I also practised Git commands to understand how changes
+are tracked and uploaded to GitHub.
 
-This assignment gave me practical exposure to
-the fundamentals of computer science.
+These activities helped me improve my technical
+understanding and problem-solving abilities.
 
-Instead of only learning theoretical concepts,
-I applied them through Terminal commands,
+## 8. Final Repository Review
+
+The repository was organised into separate folders
+for each mission.
+
+Each mission contains its own README documentation
+and relevant practical work.
+
+Final verification checklist:
+
+- [ ] All mission folders are present.
+- [ ] All mission README files are updated.
+- [ ] Required practical files are included.
+- [ ] Number converter has been tested.
+- [ ] Mission commits are visible in GitHub.
+- [ ] Changes have been pushed to the remote repository.
+- [ ] Repository contains no passwords or private information.
+- [ ] Final repository has been reviewed.
+
+## 9. Final Reflection
+
+This assignment provided practical exposure to
+important computer science fundamentals.
+
+Instead of learning only theoretical concepts,
+I applied my knowledge through Terminal commands,
 Python programming, Git and GitHub.
 
-I developed a better understanding of how
-computers work and how developers manage
-software projects.
+I developed a better understanding of how computers
+operate, how software is executed and how developers
+manage files and projects.
 
-The assignment also improved my confidence
-in using technical tools independently.
+The assignment also improved my confidence in using
+technical tools and solving basic programming problems.
 
-## 9. Conclusion
+## 10. Conclusion
 
 The Digital Detective assignment was a valuable
-learning experience.
+independent learning experience.
 
-It strengthened my understanding of computer
-systems, programming, operating systems,
-number systems, version control and networking.
+It strengthened my understanding of computer systems,
+operating systems, programming, number systems,
+version control and networking.
 
-I look forward to applying these concepts
-in more advanced software development projects.
+The practical activities helped me connect theoretical
+knowledge with real-world computer operations.
+
+I look forward to applying these concepts in more
+advanced programming and software development projects.
 
 ---
 
 **End of Final Report**
+
